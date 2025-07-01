@@ -13,15 +13,16 @@ These are all icons I currently plan to remake
     - [ ] Photo Folder
     - [ ] Video Folder
     - [ ] Downloads Folder
+    - [ ] Desktop Folder
     - [ ] Music Folder
     - [ ] Trash (Empty & Full)
 - Filetypes
-    - [ ] Text File
+    - [x] Generic File
     - [ ] Image File
 - Applications
     - [ ] Firefox
     - [ ] Mail
-    - [ ] Terminal
+    - [x] Terminal
     - [ ] VS Code
     - [ ] Blender
     - [ ] Steam
@@ -33,4 +34,4 @@ Anyone can go ahead and add their own icons and submit them via a Pull Request.
 - A friend of mine who loves Windows 7 for the inspiration
 - [HDRi: Meadow 2 by Sergej Majboroda](https://polyhaven.com/a/meadow_2)
 - [Windows 7 Icon Guidelines by Microsoft](https://learn.microsoft.com/en-us/windows/win32/uxguide/vis-icons)
-- Blender for 3D Modelling
+- [Blender for 3D Modelling](https://www.blender.org/download/)
