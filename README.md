@@ -25,7 +25,8 @@ These are all icons I currently plan to remake
     - [x] Terminal
     - [ ] VS Code
     - [ ] Blender
-    - [ ] Steam
+    - [x] Steam
+    - [x] Discord
     - [ ] Explorer
 
 Anyone can go ahead and add their own icons and submit them via a Pull Request.
