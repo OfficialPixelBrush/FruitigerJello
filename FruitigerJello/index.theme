@@ -2,19 +2,19 @@
 Name=Fruitiger Jello
 Inherits=Mint-Y, hicolor
 
-Directories=apps/256x256,places/256x256,mimetypes/256x256
+Directories=apps/512x512,places/512x512,mimetypes/512x512
 
-[places/256x256]
-Size=256
+[places/512x512]
+Size=512
 Context=Places
 Type=Fixed
 
-[mimetypes/256x256]
-Size=256
+[mimetypes/512x512]
+Size=512
 Context=MimeTypes
 Type=Fixed
 
-[apps/256x256]
-Size=256
+[apps/512x512]
+Size=512
 Context=Applications
 Type=Fixed
