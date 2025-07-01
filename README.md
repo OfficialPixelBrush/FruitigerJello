@@ -6,6 +6,26 @@ Icons should look tasty again.
 If I don't want to put an icon into my mouth, its failed as an icon.
 It should welcome me into my glorious computer world.
 
+# How to install
+Clone the repo
+```bash
+git clone https://github.com/OfficialPixelBrush/FruitigerJello.git
+cd FruitigerJello
+```
+
+Run `prep_release.sh`
+```bash
+chmod +x prep_release.sh
+./prep_release.sh
+```
+
+Copy it to your icons directory
+```bash
+cp -r FruitigerJello ~/.local/share/icons
+```
+
+And you're set!
+
 # TODO
 These are all icons I currently plan to remake
 - Folders
