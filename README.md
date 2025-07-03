@@ -1,10 +1,13 @@
-# FruitigerJello
+# Fruitiger Jello
 A modernized Frutiger Aero inspired Icon Theme.
 
 # Core Ideas
 Icons should look tasty again.
 If I don't want to put an icon into my mouth, its failed as an icon.
 It should welcome me into my glorious computer world.
+
+This is also why it's called Fru**i**tiger Jello, not Frutiger Jello.
+Icons should look like they taste like yummy fruits!
 
 # How to install
 Clone the repo
