@@ -10,6 +10,13 @@ This is also why it's called Fru**i**tiger Jello, not Frutiger Jello.
 Icons should look like they taste like yummy fruits!
 
 # How to install
+**Note**: This whole install process has only been tested on Linux Mint 22.1, and may require slightly altered steps or commands on other distros.
+
+Install dependencies
+```bash
+sudo apt install git imagemagick
+```
+
 Clone the repo
 ```bash
 git clone https://github.com/OfficialPixelBrush/FruitigerJello.git
@@ -28,6 +35,7 @@ cp -r FruitigerJello ~/.local/share/icons
 ```
 
 And you're set!
+You can now select it from the themes menu.
 
 # TODO
 These are all icons I currently plan to remake
